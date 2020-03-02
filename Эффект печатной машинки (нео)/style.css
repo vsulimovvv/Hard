@@ -1,0 +1,10 @@
+* {
+  font-family: sans-serif;
+  background: #000;
+  color: green;
+}
+
+.out {
+  font-size: 24px;
+  font-family: monospace;
+}
